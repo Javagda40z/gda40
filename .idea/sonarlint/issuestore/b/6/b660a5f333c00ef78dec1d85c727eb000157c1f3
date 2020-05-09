@@ -1,0 +1,14 @@
+
+]squid:UnusedPrivateMethod5",Remove this unused private "method3" method.(Õ®ùÿÿÿÿ8ïî´±Ÿ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğêçÿÿÿÿÿ8Ò¢İ°Ÿ.
+hsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(”€åD8ïî´±Ÿ.
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(¥¬Š”üÿÿÿÿ8ïî´±Ÿ.
+Msquid:S3985@"*Remove this unused private "Square" class.(ƒó×Ÿùÿÿÿÿ8ïî´±Ÿ.
+esquid:S2094:"BRemove this empty class, write its code or make it an "interface".(öÎãÔüÿÿÿÿ8€¾æ°Ÿ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ¹‚ıÿÿÿÿ8íİÍ°Ÿ.
+Xsquid:UnusedPrivateMethod0",Remove this unused private "method1" method.(©®Íæ8Ò¢İ°Ÿ.
+Msquid:S3985="*Remove this unused private "Circle" class.(–Æªáşÿÿÿÿ8ïî´±Ÿ.
+Œ"squid:ClassVariableVisibilityCheck"RMake object a static final constant or non-public and provide accessors if needed.(Å¿Ÿ¾üÿÿÿÿ8–ˆÌ°Ÿ.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8íá¹±Ÿ.
+|squid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü›üÒøÿÿÿÿ8íá¹±Ÿ.
+[squid:S1854,"8Remove this useless assignment to local variable "foo3".(Ü›üÒøÿÿÿÿ8’§º±Ÿ.
