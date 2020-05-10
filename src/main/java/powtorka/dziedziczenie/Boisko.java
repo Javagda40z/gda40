@@ -33,7 +33,7 @@ public class Boisko {
 
         List<Bramkarz> bramkarzList = Arrays.asList(bramkarz);
 //        niechWszyscySprinterzyBiegajaSprintem(bramkarzList);
-        niechWszyscySprinterzyBiegajaSprintem(Arrays.asList(bramkarz));
+//        niechWszyscySprinterzyBiegajaSprintem(Arrays.asList(bramkarz));
 
 
 
